@@ -1,4 +1,4 @@
-# Installing Node.js via package manager (ubuntu)
+## Installing Node.js via package manager (ubuntu)
 
 
 If you are using Ubuntu Precise or Debian Wheezy, you might want to read about [running Node.js >= 6.x on older distros](https://github.com/nodesource/distributions/blob/master/OLDER_DISTROS.md).
